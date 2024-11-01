@@ -1,2 +1,3 @@
-aocado
-
+avocado 
+lime 
+salt
